@@ -99,3 +99,7 @@ Contributions to this repository are welcome! If you have ideas for new simulati
 ## License
 
 This repository is licensed under the MIT License. See the `LICENSE` file for more information.
+
+## Author
+- [smahala02](https://github.com/smahala02)
+
